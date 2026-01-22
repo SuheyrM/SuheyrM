@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>☁️ Cloud & Platform Engineer • AWS • IaC • Automation</b><br/>
-  <i>Building reliable, secure infrastructure — with a little ✨kawaii✨ energy</i>
+  <i>Building reliable, secure infrastructure 
 </p>
 
 <p align="center">
