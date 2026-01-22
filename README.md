@@ -21,7 +21,7 @@ Right now, I’m learning more **Python for AWS scripting** and improving **clou
 
 ## ☁️ Cloud Platforms & Infrastructure
 - **AWS:** EC2, ECS, RDS, S3, VPC, IAM, Lambda, CloudWatch, DynamoDB, EventBridge  
-- **Infrastructure as Code:** Terraform (incl. LZA-style patterns), Terragrunt  
+- **Infrastructure as Code:** Terraform 
 - **Containers:** Docker, ECS Fargate  
 - **Serverless & Web:** Lambda, API Gateway, S3 static hosting  
 
