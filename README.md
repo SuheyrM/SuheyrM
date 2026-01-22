@@ -9,11 +9,6 @@
   <i>Building reliable, secure infrastructure 
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=SuheyrM">
-    <img src="https://komarev.com/ghpvc/?username=SuheyrM&label=Profile%20views&color=FF7AD9&style=flat-square" alt="SuheyrM's profile views" />
-  </a>
-</p>
 
 
 ---
