@@ -1,8 +1,11 @@
-<h1 align="center">
-  Hey
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px" />
-  I'm Suheyr
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=5000&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I%27m+Suheyr"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
   <b>☁️ Cloud & Platform Engineer • AWS • IaC • Automation</b><br/>
