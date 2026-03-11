@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>☁️ Cloud & Platform Engineer • AWS • IaC • Automation</b><br/>
+  <b>☁️ Cloud & Devop Engineer • AWS • IaC • Automation</b><br/>
   <i>Building reliable, secure infrastructure 
 </p>
 
